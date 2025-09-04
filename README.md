@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🤝 I’m looking for a tech job<br>🌱 I’m currently learning flatter<br>
+<br>🤝 I’m looking for a tech job<br>🌱 I’m currently learning flutter<br>
 
 
 ## 🌐 Socials:
